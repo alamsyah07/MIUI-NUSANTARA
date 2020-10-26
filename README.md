@@ -1,2 +1,0 @@
-# MIUI-NUSANTARA
-Ota updates
