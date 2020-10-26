@@ -2,13 +2,13 @@
 
     <RomName>MIUI Nusantara</RomName>
 
-    <VersionName>New Style UI MIUI Nusantarana 20.10.15</VersionName>
+    <VersionName>MIUI Nusantarana 20.10.22</VersionName>
 
     <VersionNumber type="integer">12000021</VersionNumber>
 
     <DirectUrl nil="true"/>
 
-    <HttpUrl>https://semawur.com/BfuhYf1</HttpUrl>
+    <HttpUrl>https://miui-nusantara.lamz.workers.dev/X00TD/MiUi_Nusantara_20.10.15_X00TD_10.0_Official.zip</HttpUrl>
 
     <Android>10.0</Android>
 
@@ -16,13 +16,13 @@
 
     <FileSize type="integer">22791324</FileSize>
 
-    <Developer>AnGgIt86</Developer>
+    <Developer>Alamsyah</Developer>
 
     <WebsiteURL>http://t.me/MiuiNusantara</WebsiteURL>
 
-    <DonateURL>https://paypal.me/AnGgIt86</DonateURL>
+    <DonateURL>https://paypal.me/Alammsyah01</DonateURL>
 
-    <Changelog>New UI like AOSP</Changelog>
+    <Changelog>New videos HD</Changelog>
 
 </ROM>
 
