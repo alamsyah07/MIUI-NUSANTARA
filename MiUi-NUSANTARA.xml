@@ -8,7 +8,7 @@
 
     <DirectUrl nil="true"/>
 
-    <HttpUrl>https://miui-nusantara-project.lamz.workers.dev/X00TD/OTA/OTA_MiUi_Nusantara_X00TD_Fix_patch.zip</HttpUrl>
+    <HttpUrl>miui-nusantara-project.lamz.workers.dev/X00TD/OTA/OTA_MiUi_Nusantara_X00TD_Fix_patch.zip</HttpUrl>
 
     <Android>10.0</Android>
 
