@@ -12,7 +12,7 @@
     <DonateURL>https://paypal.me/Alamsyah01?locale.x=id_ID</DonateURL>
     <Changelog>- Fix Reading Mode                                                                
 - Fix Mi Account                                                                    
-- Fix Screen Recorder                                                             - temporarily flash the ota form manually twrp                      
+- Fix Screen Recorder                                                             - temporarily flash the ota form manually twrp                       
    (Mount system & vendor)
 </Changelog>
 </ROM>
