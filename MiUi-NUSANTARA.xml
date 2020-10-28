@@ -12,7 +12,7 @@
 
     <Android>10.0</Android>
 
-    <CheckMD5 nil="true"/>
+    <CheckMD5 nil="false"/>
 
     <FileSize type="integer">210403</FileSize>
 
