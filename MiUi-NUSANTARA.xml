@@ -1,27 +1,15 @@
 <ROM>
-
     <RomName>MIUI Nusantara</RomName>
-
     <VersionName>MIUI Nusantarana 20.10.15</VersionName>
-
     <VersionNumber type="integer">12000021</VersionNumber>
-
     <DirectUrl nil="true"/>
-
     <HttpUrl>miui-nusantara-project.lamz.workers.dev/X00TD/OTA/OTA_MiUi_Nusantara_X00TD_Fix_patch.zip</HttpUrl>
-
     <Android>10.0</Android>
-
     <CheckMD5 nil="false"/>
-
     <FileSize type="integer">210403</FileSize>
-
     <Developer>Alamsyah</Developer>
-
     <WebsiteURL>http://t.me/MiuiNusantara</WebsiteURL>
-
     <DonateURL>https://paypal.me/Alamsyah01?locale.x=id_ID</DonateURL>
-
     <Changelog>- Fix Reading Mode                                                                
 - Fix Mi Account                                                                    
 - Fix Screen Recorder                                                             - temporarily flash the ota form manually twrp.                      
